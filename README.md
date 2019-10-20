@@ -1,10 +1,9 @@
 ## Contact
-[Texas A&M Statistics](stat.tamu.edu)
-Email : snplmmr [at] stat.tamu.edu
+[Texas A&M Statistics](stat.tamu.edu)  
+Email : snplmmr [at] stat.tamu.edu  
+[CV]()
+## Research
+My research interests are in Bayesian Methods for high dimensional data 
 
-
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
