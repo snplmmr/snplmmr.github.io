@@ -1,5 +1,4 @@
-![Me](Snapchat-794694205.jpg&s=200)
-
+<img src="Snapchat-794694205.jpg" alt="me" width="200"/>
 ## Contact
 [Texas A&M Statistics](stat.tamu.edu)  
 Email : snplmmr [at] stat.tamu.edu  
