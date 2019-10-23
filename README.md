@@ -1,5 +1,4 @@
-### Testing Pictures
-![Me](Snapchat-794694205.jpg)
+![Me](Snapchat-794694205.jpg|width=100)
 
 ## Contact
 [Texas A&M Statistics](stat.tamu.edu)  
