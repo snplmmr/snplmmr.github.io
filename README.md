@@ -1,4 +1,4 @@
-![Me](Snapchat-794694205.jpg =250x250)
+![Me](Snapchat-794694205.jpg | width=100)
 
 ## Contact
 [Texas A&M Statistics](stat.tamu.edu)  
