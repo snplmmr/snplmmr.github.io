@@ -1,5 +1,5 @@
 ### Testing Pictures
-![Cat](https://upload.wikimedia.org/wikipedia/commons/0/0b/Cat_poster_1.jpg)
+![Me](Snapchat-794694205.jpg)
 
 ## Contact
 [Texas A&M Statistics](stat.tamu.edu)  
